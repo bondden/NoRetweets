@@ -3,7 +3,7 @@
 // @namespace   http://twitter.com
 // @include     https://twitter.com/
 // @include     https://twitter.com/*
-// @version     0.1.0
+// @version     0.1.1
 // @grant       none
 // @downloadURL https://github.com/bondden/NoRetweets/raw/master/noretweet.user.js
 // @updateURL   https://github.com/bondden/NoRetweets/raw/master/noretweet.user.js
